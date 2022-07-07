@@ -5,6 +5,6 @@
 - Auto Joiner
 - Auto Profile (makes realistic looking profile)
 - 0 Flags
-- Nitro claimed on register
+- Auto boost joined server (claims nitro on register)
 
 https://discord.gg/NC6A7uxNuf
