@@ -6,3 +6,5 @@
 - Auto Profile (makes realistic looking profile)
 - 0 Flags
 - Nitro claimed on register
+
+https://discord.gg/NC6A7uxNuf
