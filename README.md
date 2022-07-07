@@ -1,4 +1,4 @@
-# Discord-Token-Creator :: Releasing at 50 stars.
+# Discord-Token-Creator :: Releasing at 100 stars.
 
 ### Features
 - Captcha SOLVER (using ai)
@@ -7,4 +7,4 @@
 - 0 Flags
 - Auto boost joined server (claims nitro on register)
 
-https://discord.gg/NC6A7uxNuf
+Join my discord -> https://discord.gg/NC6A7uxNuf
