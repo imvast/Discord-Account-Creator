@@ -5,3 +5,4 @@
 - Auto Joiner
 - Auto Profile (makes realistic looking profile)
 - 0 Flags
+- Nitro claimed on register
