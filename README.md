@@ -7,4 +7,6 @@
 - 0 Flags
 - Auto boost joined server (claims nitro on register)
 
+---
+
 Join my discord -> https://discord.gg/NC6A7uxNuf
