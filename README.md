@@ -5,7 +5,7 @@
 - Auto Joiner
 - Auto Profile (makes realistic looking profile)
 - 0 Flags
-- Auto boost joined server (claims nitro on register)
+- Auto boosts joined server (claims nitro on register)
 
 ---
 
