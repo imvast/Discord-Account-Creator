@@ -1,11 +1,20 @@
-<h1 align="center"> Discord-Token-Creator :: Releasing at 100 stars. </h1>
+<h1 align="center"> Discord-Account-Creator :: Releasing at 100 stars. </h1>
+
+> **Note** A mass Discord account/token creator that can be used for: 
+- Getting LVL3 Boost
+- Gaining server members
+- etc.
+
+**^ This is done by implementing these features:**
 
 ## Features
 - Captcha SOLVER (using ai)
 - Auto Joiner
 - Auto Profile (makes realistic looking profile)
+- Verified Email
 - 0 Flags
 - Auto boosts joined server (claims nitro on register)
+- Online + Status (using ws payloads)
 
 ---
 ```
