@@ -17,11 +17,15 @@
 - Online + Status (using ws payloads)
 
 ---
-```
-If you want to buy early ($100) or get access early, for free, before its posted on github,
-and most likely gets patched as soon as i post it on github...
 
 Join my discord -> https://discord.gg/2HQE8sr8s7
+```
+If you join my discord you can ... 
+
+Buy the product early ($100) or get early access for free, before its posted on github
+(and most likely gets patched as soon as i post it on github)
+
+If you want to see previews and watch me bot a bunch of other servers i send the server that you can watch live
 ```
 ---
 
@@ -33,3 +37,4 @@ Join my discord -> https://discord.gg/2HQE8sr8s7
 ![unknown](https://user-images.githubusercontent.com/60797067/178118037-f7d6815f-f4da-4ba7-8fa4-12edfa2dba0e.png)
 ![unknown](https://user-images.githubusercontent.com/60797067/178122067-ff242557-dcef-4664-b6b3-7f0d858b38ef.png)
 ![unknown](https://user-images.githubusercontent.com/60797067/178123896-9511c6e6-483e-4ff6-9429-a349c17a3903.png)
+![image](https://user-images.githubusercontent.com/60797067/178840065-64578920-c96d-4162-af56-b91046dc504c.png)
