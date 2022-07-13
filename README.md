@@ -22,7 +22,7 @@ Join my discord -> https://discord.gg/2HQE8sr8s7
 ```
 If you join my discord you can ... 
 
-Buy the product early ($100) or get early access for free, before its posted on github
+Buy the product early ($50) or get early access for free, before its posted on github
 (and most likely gets patched as soon as i post it on github)
 
 If you want to see previews and watch me bot a bunch of other servers i send the server that you can watch live
