@@ -1,4 +1,4 @@
-<h1 align="center"> Discord-Account-Creator :: Releasing at 100 stars. </h1>
+<h1 align="center"> Discord-Account-Creator :: Hit 100 Stars W | Join the discord for src </h1>
 
 > **Note** A mass Discord account/token creator that can be used for: 
 - Getting LVL3 Boost
@@ -19,14 +19,7 @@
 ---
 
 Join my discord -> https://discord.gg/2HQE8sr8s7
-```
-If you join my discord you can ... 
 
-Buy the product early ($50) or get early access for free, before its posted on github
-(and most likely gets patched as soon as i post it on github)
-
-If you want to see previews and watch me bot a bunch of other servers i send the server that you can watch live
-```
 ---
 
 ## Screenshots:
