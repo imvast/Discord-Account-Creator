@@ -1,4 +1,4 @@
-<h1 align="center"> Discord-Account-Creator :: Hit 100 Stars W | Join the discord for src </h1>
+<h1 align="center"> Discord-Account-Creator :: 100 stars W | Posted in discord; releasing on github soon </h1>
 
 > **Note** A mass Discord account/token creator that can be used for: 
 - Getting LVL3 Boost
