@@ -1,11 +1,12 @@
 <h1 align="center"> Discord-Account-Creator </h1>
 
-> **Note** A mass Discord account/token creator that can be used for: 
+**A mass Discord account/token creator that can be used for:**
 - Getting LVL3 Boost
 - Gaining server members
 - etc.
 
-**^ This is done by implementing these features:**
+> **Note** ik a lot of the features in here are not implemented but its cuz i barely had time to work on it lol
+
 
 ## Features
 - Captcha SOLVER (using ai)
