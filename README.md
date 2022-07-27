@@ -5,6 +5,8 @@
 - Gaining server members
 - etc.
 
+**stop asking for support yall some skids im not helping :skull:**
+
 > **Note** ik a lot of the features in here are not implemented but its cuz i barely had time to work on it lol
 
 > **Note** ill be working v2 for a bit of time and itll have the promised features but dont expect it right away
