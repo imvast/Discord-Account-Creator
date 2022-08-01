@@ -1,4 +1,4 @@
-import httpx, re, random, binascii, os, json#, config4py
+import httpx, re, random, binascii, os, json
 
 class Cloudfare:
     
