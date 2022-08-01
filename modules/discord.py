@@ -7,7 +7,7 @@ from modules.console import Console
 from typing import Union
 from colorama import Fore
 
-config = json.load(open('./data/config.json'))
+config = json.load(open("./data/config.json"))
 
 class Payload:
     
