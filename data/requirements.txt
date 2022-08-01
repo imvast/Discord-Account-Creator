@@ -1,3 +1,3 @@
 httpx
-config4py
+confignation
 imagehash
