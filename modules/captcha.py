@@ -8,7 +8,7 @@ from .console import Console
 
 
 model = load_model('./data/data.h5')
-config =  json.load(open('./data/config.json'))
+config =  json.load(open("./data/config.json"))
 
 class CaptchaSolver:
     @staticmethod
