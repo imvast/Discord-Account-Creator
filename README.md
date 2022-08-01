@@ -26,7 +26,7 @@
 
 ---
 
-Join my discord for more information -> https://discord.gg/2HQE8sr8s7
+Join my discord for more information -> https://discord.gg/WtpEzbPS52
 
 ---
 
