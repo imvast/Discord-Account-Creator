@@ -1,6 +1,6 @@
 {
     "captcha_api": "anti-captcha.com",
-    "captcha_key": "", // optional
+    "captcha_key": "",
 
     "image_size": 256,
     "debug": true,
