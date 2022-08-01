@@ -2,7 +2,7 @@ from colorama import Fore, init;init()
 import os, threading, time, json, keyboard, datetime
 from pystyle import *
 
-config = json.load(open('./data/config.json'))
+config = json.load(open("./data/config.json"))
 lock = threading.Lock()
 
 class Console:
