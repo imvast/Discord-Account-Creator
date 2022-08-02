@@ -8,3 +8,4 @@ imagehash
 matplotlib
 pystyle
 colorama
+pytweening
