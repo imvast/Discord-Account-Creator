@@ -9,3 +9,4 @@ matplotlib
 pystyle
 colorama
 pytweening
+redis
