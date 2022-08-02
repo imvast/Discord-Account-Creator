@@ -1,3 +1,5 @@
 httpx
 confignation
+pysocks
+brotli
 imagehash
