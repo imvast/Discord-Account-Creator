@@ -22,7 +22,7 @@
 - Verified Email
 - 0 Flags
 - Auto boosts joined server (claims nitro on register)
-- Online + Status (using ws payloads)
+- Online + Status (using ws connections)
 
 ---
 
