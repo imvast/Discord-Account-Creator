@@ -1,5 +1,8 @@
 httpx
-confignation
+opencv-python
 pysocks
 brotli
+tensorflow
+confignation
 imagehash
+matplotlib
