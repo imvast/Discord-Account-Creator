@@ -8,7 +8,7 @@ from .console import Console
 
 
 model = load_model('./data/data.h5')
-config =  json.load(open("./data/config.json"))
+config = json.load(open("./data/config.json"))
 
 class CaptchaSolver:
     @staticmethod
@@ -122,51 +122,5 @@ class CaptchaSolver:
             return token
         except hcaptcha.ApiError as e:
             Console.debug(f"[-] ApiError: {e}")
-            
-            
-            
-            
-    @staticmethod
-    def get_captcha_by_api_ai(proxy: str) -> str:
-        import requests
-        ch = hcaptcha.Challenge(
-            sitekey="4c672d35-0701-42b2-88c3-78380b0db560",
-            page_url="https://discord.com",
-        )
 
-        if ch.token:
-            return ch.token
-
-        Console.debug("[*] SOLVING...")
-        answers = []
-        for tile in ch.tasks:
-            image = tile.image(raw=True) # image needs to be image bytes encoded to base64
-            response = requests.post('http://127.0.0.1/osiris-ai/OCR', data = {'image': f"{image}"}) 
-            res = response.json()["captcha"]["text"]
-            print(res)
             
-            if res == 0:
-                img_type = 'airplaine'
-            if res == 1:
-                img_type = 'bicycle'
-            if res == 2:
-                img_type = 'boat'
-            if res == 3:
-                img_type = 'motorbus'
-            if res == 4:
-                img_type = 'motorcycle'
-            if res == 5:
-                img_type = 'seaplane'
-            if res == 6:
-                img_type = 'train'
-            if res == 7:
-                img_type = 'truck'
-
-            if img_type in ch.question:
-                answers.append(tile)
-
-        try:
-            token = ch.solve(answers)
-            return token
-        except hcaptcha.ApiError as e:
-            print(e)
