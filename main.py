@@ -1,8 +1,10 @@
 # Temp main to people who whant to work on it
 print("[ ! ] Loading Modules...\n")
 import os
-try: os.system("py -m pip install -r ./data/requirements.txt >null")
-except: os.system("python -m pip install -r ./data/requirements.txt >null")
+try: os.system("pip install -r ./data/requirements.txt")
+except: pass
+try: os.system("py -m pip install -r ./data/requirements.txt")
+except: os.system("python -m pip install -r ./data/requirements.txt")
 
 from modules.console import Console
 from modules.session import HttpSession
