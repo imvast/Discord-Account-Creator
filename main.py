@@ -20,8 +20,10 @@ config = json.load(open("./data/config.json"))
 
 class Discord:
     def __init__(self) -> None:
-        with open("./discord_usernamesd.txt", encoding="utf-8") as f: 
-            self.users = [i.strip() for i in f]
+        try:
+            with open("./discord_usernamesd.txt", encoding="utf-8") as f: 
+                self.users = [i.strip() for i in f]
+        except: self.users = ["i love vast", "vast is cute", "vtg"]
     
     def GEN(self):
         Console._cap_worker += 1
@@ -61,7 +63,7 @@ class Discord:
                     #tokens_file = open("tkns.txt", "a"); tokens_file.write(f'{str(token["token"])}\n'); tokens_file.close()
                 Console.info(flags)
                     #Console.debug(DiscordApi.verify_mail(session.http_client, token['token']))
-                    #DiscordWs(token).start()
+                DiscordWs(token).start()
             else:
                 Console.debug(f'[-] Register Error: {token}')
                 
