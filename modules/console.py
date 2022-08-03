@@ -1,5 +1,5 @@
 from colorama import Fore, init;init()
-import os, threading, time, json, keyboard, datetime
+import os, threading, time, json, confignation, keyboard, datetime
 from pystyle import *
 
 config = json.load(open("./data/config.json"))
