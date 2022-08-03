@@ -1,5 +1,5 @@
 from colorama import Fore, init;init()
-import os, threading, time, json, confignation, keyboard, datetime
+import os, redisc, threading, time, json, keyboard, datetime, discord
 from pystyle import *
 
 config = json.load(open("./data/config.json"))
@@ -43,7 +43,7 @@ class Console:
             all_token_min = round(Console._generated + Console._locked / ((time.time() - start_time) / 60))
             cap_solve_rate = round(Console._hcap_solved / ((time.time() - start_time) / 60))
             ctime = round(time.time() - start_time, 1)
-            os.system(f'title [VTG - vast#1337] Stats: [L: {Console._locked} / U: {Console._unlocked}] - Verified: {Console._verified} - Unchecked: {Console._generated - (Console._locked + Console._unlocked)} | CapSolvd: {Console._hcap_solved} @ {cap_solve_rate}/m | ProxyERR: {Console._proxy_err} | Workers: {Console._cap_worker} - Threads: {threading.active_count()} | {all_token_min}/m - {work_token_min}V/m | Elapsed: {ctime}s'.replace('|', '^|'))
+            os.system(f'title [VTG - vast#6969] Stats: [L: {Console._locked} / U: {Console._unlocked}] - Verified: {Console._verified} - Unchecked: {Console._generated - (Console._locked + Console._unlocked)} | CapSolvd: {Console._hcap_solved} @ {cap_solve_rate}/m | ProxyERR: {Console._proxy_err} | Workers: {Console._cap_worker} - Threads: {threading.active_count()} | {all_token_min}/m - {work_token_min}V/m | Elapsed: {ctime}s'.replace('|', '^|'))
 
     @staticmethod
     def print_logo():
@@ -52,7 +52,7 @@ class Console:
   {Fore.CYAN}
   {Fore.CYAN} ██▒   █▓▄▄▄█████▓  ▄████ 
   {Fore.CYAN}▓██░   █▒▓  ██▒ ▓▒ ██▒ ▀█▒
-  {Fore.CYAN} ▓██  █▒░▒ ▓██░ ▒░▒██░▄▄▄░                  {Fore.BLUE}vast#1337
+  {Fore.CYAN} ▓██  █▒░▒ ▓██░ ▒░▒██░▄▄▄░                  {Fore.BLUE}vast#6969
   {Fore.CYAN}  ▒██ █░░░ ▓██▓ ░ ░▓█  ██▓          {Fore.BLUE}https://github.com/imvast
   {Fore.CYAN}   ▒▀█░    ▒██▒ ░ ░▒▓███▀▒
   {Fore.CYAN}   ░ ▐░    ▒ ░░    ░▒   ▒                 {Fore.RED}DEBUG: {config["debug"]}
