@@ -10,3 +10,4 @@ pystyle
 colorama
 pytweening
 redis
+keyboard
