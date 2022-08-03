@@ -1,6 +1,5 @@
-import base64, json, websocket, time, threading, re, httpx, confignation
+import base64, json, websocket, time, threading, re, httpx, random, string
 from matplotlib.pyplot import flag
-import random, string
 from modules.hcaptcha.exceptions import HCaptchaError, ApiError
 from urllib.request import Request, urlopen
 from modules.console import Console
