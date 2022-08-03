@@ -3,12 +3,12 @@ opencv-python
 pysocks
 brotli
 tensorflow
-confignation
 imagehash
 matplotlib
 pystyle
 colorama
 pytweening
-redis
+redisc
 keyboard
 websocket
+discord
