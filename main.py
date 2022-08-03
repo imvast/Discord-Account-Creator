@@ -4,10 +4,10 @@ import os
 try: os.system("py -m pip install -r ./data/requirements.txt >null")
 except: os.system("python -m pip install -r ./data/requirements.txt >null")
 
+from modules.console import Console
 from modules.session import HttpSession
 from modules.discord import DiscordApi, DiscordWs
 from modules.captcha import CaptchaSolver
-from modules.console import Console
 import random, threading, httpx, time, json, itertools, os
 os.system('cls')
 
