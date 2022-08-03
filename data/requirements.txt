@@ -11,3 +11,4 @@ colorama
 pytweening
 redis
 keyboard
+websocket
