@@ -1,6 +1,6 @@
 <h1 align="center"> Discord-Account-Creator </h1>
 
-<h2 align="center">ill be working on v2 once this gets patched ; v2 will gen unlocked tokens unlike this one lol </h2>
+<h2 align="center">PATCHED!! buy unpatched version or v2 at https://yovast.sellix.io</h2>
 
 
 **A mass Discord account/token creator that can be used for:**
