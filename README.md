@@ -1,7 +1,12 @@
 <h1 align="center"> Discord-Account-Creator </h1>
 
-<h2 align="center">PATCHED!! buy unpatched version (v1) or the insane remake (v2) at https://yovast.sellix.io</h2>
+<h2 align="center">THIS VERSION IS OFFICIALLY PATCHED!! </h2>
 
+### Check out v2 [here](https://github.com/exploitees/Cronus) (releases at ⭐️100)
+or
+### you can find the unpatched version (v1) and the insane remake (v2) @ [skiddos.t.me](https://t.me/skiddos)
+
+---
 
 **A mass Discord account/token creator that can be used for:**
 - Getting LVL3 Boost
