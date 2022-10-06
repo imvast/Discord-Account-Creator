@@ -31,7 +31,7 @@ or
 
 ---
 
-Join my discord for more information -> https://discord.gg/EFDe4SPefa
+Join my discord for more information -> https://discord.gg/HFssqAymYD
 
 ---
 
