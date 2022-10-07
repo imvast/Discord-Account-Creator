@@ -4,7 +4,7 @@
 
 ### Check out v2 [here](https://github.com/exploitees/Cronus) (releases at ⭐️100)
 or
-### you can find the unpatched version (v1) and the insane remake (v2) @ [skiddos.t.me](https://t.me/skiddos)
+### you can buy the unpatched version (v1) and/or the insane remake (v2) @ [skiddos.t.me](https://t.me/skiddos)
 
 ---
 
