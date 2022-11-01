@@ -6,6 +6,8 @@
 or
 ### you can buy the unpatched version (v1) and/or the insane remake (v2) @ [skiddos.t.me](https://t.me/skiddos)
 
+### since yall care sm ab "skidding" when i offered a free program that worked ; the main part of this code was made by its-vichy , the solver was made by h0nde , and i fixed the code and added my branding to it :) (+ a logger that only worked for a couple days lmao) 🖕 
+
 ---
 
 **A mass Discord account/token creator that can be used for:**
