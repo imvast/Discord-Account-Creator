@@ -33,7 +33,7 @@ or
 
 ---
 
-Join my discord for more information -> https://discord.gg/yHjPV4QtWg
+Join my discord for more information -> https://discord.gg/ZKdtJfdkFj
 
 ---
 
