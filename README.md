@@ -2,9 +2,7 @@
 
 <h2 align="center">THIS VERSION IS OFFICIALLY PATCHED!! </h2>
 
-### Check out v2 [here](https://github.com/exploitees/Cronus) (releases at ⭐️100)
-or
-### you can buy the, unpatched, remade versiom @ [skiddos.t.me](https://t.me/skiddos)
+### you can buy the, unpatched, remade version @ [skiddos.t.me](https://t.me/skiddos)
 
 ### since yall care sm ab "skidding" when i offered a free program that worked ; the main part of this code was made by its-vichy , the solver was made by h0nde , and i fixed the code and added my branding to it :) (+ a logger that only worked for a couple days lmao) 🖕 
 
