@@ -1,6 +1,6 @@
 <h1 align="center"> Discord-Account-Creator </h1>
 
-<h2 align="center">THIS VERSION IS OFFICIALLY PATCHED!! </h2>
+<h1 align="center">THIS VERSION IS OFFICIALLY PATCHED!! </h1>
 
 ---
 
