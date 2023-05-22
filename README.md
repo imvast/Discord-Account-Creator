@@ -4,11 +4,11 @@
 
 ---
 
-### you can buy the, unpatched, remade version @ [skiddos.t.me](https://t.me/skiddos)
+### you can buy the, unpatched, remade version @ [shop.saiv.cc](https://shop.saiv.cc) | [.gg/vast](https://discord.gg/vast)
 
 ---
 
-### since yall care sm ab "skidding" when i offered a free program that worked ; the main part of this code was made by its-vichy , the solver was made by h0nde , and i fixed the code and added my branding to it :) (+ a logger that only worked for a couple days lmao) 🖕 
+### since yall care sm ab "skidding" when i offered a free program that worked ; the main part of this code was made by its-vichy , the solver was made by h0nde , and i fixed the code and added my branding to it :)
 
 ---
 
