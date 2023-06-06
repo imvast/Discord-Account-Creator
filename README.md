@@ -3,7 +3,7 @@
 <h1 align="center">THIS VERSION IS OFFICIALLY PATCHED!! </h1>
 
 ---
-
+ 
 ### you can buy the, unpatched, remade version @ [shop.saiv.cc](https://shop.saiv.cc) | [.gg/vast](https://discord.gg/vast)
 
 ---
