@@ -1,52 +1,88 @@
-<h1 align="center"> Discord-Account-Creator </h1>
-
-## an official update will be released at the marking of 400 stars
-
-<h1 align="center">THIS VERSION IS OFFICIALLY PATCHED!! </h1>
-
----
- 
-### you can buy the, unpatched, remade version @ [shop.saiv.cc](https://shop.saiv.cc) | [.gg/vast](https://discord.gg/vast)
-
----
-
-### since yall care sm ab "skidding" when i offered a free program that worked ; the main part of this code was made by its-vichy , the solver was made by h0nde , and i fixed the code and added my branding to it :)
-
----
-
-**A mass Discord account/token creator that can be used for:**
-- Getting LVL3 Boost
-- Gaining server members
-- etc.
-
-**stop asking for support yall some skids im not helping :skull:**
-
-> **Note** ik a lot of the features in here are not implemented but its cuz i barely had time to work on it lol
-
-> **Note** ill be working v2 for a bit of time and itll have the promised features but dont expect it right away
-
-
-## Features
-- Captcha SOLVER (using ai)
-- Auto Joiner
-- Auto Profile (makes realistic looking profile)
-- Verified Email
-- 0 Flags
-- Auto boosts joined server (claims nitro on register)
-- Online + Status (using ws connections)
+<div align="center">
+  <kbd>
+  <a href="https://github.com/imvast/Discord-Account-Gen">
+    <img src="https://cdn.discordapp.com/attachments/1136367833597628546/1144032439816163378/Screenshot_2023-08-14_182507.png" alt="Logo" style="width: 110%; height: 110%;">
+  </a>
+  </kbd>
+  
+  <h2 align="center">Discord - Account Creator</h2>
+  <p align="center">
+    A simple and fast program to create unflagged discord accounts/tokens automatically (<b> created by me </b>)
+    <br />
+    <br />
+    <a href="https://discord.vast.sh/">💬 Discord</a>
+    ·
+    <a href="https://github.com/imvast/Discord-Account-Gen#-changelog">📜 ChangeLog</a>
+    ·
+    <a href="https://github.com/imvast/Discord-Account-Gen/issues">⚠️ Report Bug</a>
+    ·
+    <a href="https://github.com/imvast/Discord-Account-Gen/issues">💡 Request Feature</a>
+  </p>
+</div>
 
 ---
 
-Join my discord for more information -> https://discord.gg/vast
+<h3>
+publish date: 6/20/2023
+// this version most likely doesn't work
+
+if patched, you can purchase working version @ https://shop.vast.sh
+</h3>
 
 ---
 
-## Screenshots:
-> **Note** **Screenshots will be updated daily/as this gen progresses || Last Updated: July 13th @ 17:30 EST**
+### ⚙️ Installation
 
+- Requires: `Python 3.8+`
+- Add your proxies to `proxies.txt`
+- Edit the `config.toml` to your preference
+- Start: `python3 main.py`
 
-![unknown](https://user-images.githubusercontent.com/60797067/178118009-fa3ad6fc-b4e1-4ac7-acc5-607473ffd371.png)
-![unknown](https://user-images.githubusercontent.com/60797067/178118037-f7d6815f-f4da-4ba7-8fa4-12edfa2dba0e.png)
-![unknown](https://user-images.githubusercontent.com/60797067/178122067-ff242557-dcef-4664-b6b3-7f0d858b38ef.png)
-![unknown](https://user-images.githubusercontent.com/60797067/178123896-9511c6e6-483e-4ff6-9429-a349c17a3903.png)
-![image](https://user-images.githubusercontent.com/60797067/178840065-64578920-c96d-4162-af56-b91046dc504c.png)
+---
+
+### 🔥 Features
+
+- Built-in Captcha Solver
+- Slick UI
+- Decent Speeds
+- Simple & Easy To Setup
+- Creates UNLOCKED ACCOUNTS
+- Joins server even if they are locked. (member boosting setting)
+- Undetected Client
+- Ultra HIGH Proxy Usage
+- OPTION: Enable DEV Mode
+- OPTION: Add BIO
+- OPTION: Add PFP
+- OPTION: Add Random Hypesquad
+- OPTION: Join Server
+
+---
+
+### 🚀 Milestones
+
+- NOT GIVING SUPPORT NOR CUSTOM UPDATES | PURCHASE @ https://shop.vast.sh FOR LIFETIME UPDATES AND BETTER VERSION
+
+---
+
+### ❗ Disclaimers
+
+- I am not responsible for anything that may happen, such as, API Blocking, Account Termination, etc.
+- This **may** slow down your wifi and/or host computer
+- This was a quick project that was made for fun, so if you want to see further updates, star the repo & create an "issue" [here](https://github.com/imvast/Discord-Account-Gen/issues/new/choose)
+
+---
+
+### 📜 ChangeLog
+
+```diff
+v0.0.1 ⋮ 04/09/2021
+! Initial release
+```
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/license/imvast/Discord-Account-Gen.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
+  <img src="https://img.shields.io/github/stars/imvast/Discord-Account-Gen.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
+  <img src="https://img.shields.io/github/languages/top/imvast/Discord-Account-Gen.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=python"/>
+</p>

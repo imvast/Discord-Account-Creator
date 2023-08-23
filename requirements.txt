@@ -1,0 +1,8 @@
+websocket-client
+tls-client
+terminut
+colored
+colorama
+veilcord
+requests
+toml
