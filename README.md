@@ -1,5 +1,7 @@
 <h1 align="center"> Discord-Account-Creator </h1>
 
+## an official update will be released at the marking of 400 stars
+
 <h1 align="center">THIS VERSION IS OFFICIALLY PATCHED!! </h1>
 
 ---
