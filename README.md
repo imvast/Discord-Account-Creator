@@ -1,6 +1,6 @@
 <div align="center">
   <kbd>
-  <a href="https://github.com/imvast/Discord-Account-Gen">
+  <a href="https://github.com/imvast/Discord-Account-Creator">
     <img src="https://cdn.discordapp.com/attachments/1136367833597628546/1144032439816163378/Screenshot_2023-08-14_182507.png" alt="Logo" style="width: 110%; height: 110%;">
   </a>
   </kbd>
@@ -12,11 +12,11 @@
     <br />
     <a href="https://discord.vast.sh/">💬 Discord</a>
     ·
-    <a href="https://github.com/imvast/Discord-Account-Gen#-changelog">📜 ChangeLog</a>
+    <a href="https://github.com/imvast/Discord-Account-Creator#-changelog">📜 ChangeLog</a>
     ·
-    <a href="https://github.com/imvast/Discord-Account-Gen/issues">⚠️ Report Bug</a>
+    <a href="https://github.com/imvast/Discord-Account-Creator/issues">⚠️ Report Bug</a>
     ·
-    <a href="https://github.com/imvast/Discord-Account-Gen/issues">💡 Request Feature</a>
+    <a href="https://github.com/imvast/Discord-Account-Creator/issues">💡 Request Feature</a>
   </p>
 </div>
 
@@ -68,7 +68,7 @@ if patched, you can purchase working version @ https://shop.vast.sh
 
 - I am not responsible for anything that may happen, such as, API Blocking, Account Termination, etc.
 - This **may** slow down your wifi and/or host computer
-- This was a quick project that was made for fun, so if you want to see further updates, star the repo & create an "issue" [here](https://github.com/imvast/Discord-Account-Gen/issues/new/choose)
+- This was a quick project that was made for fun, so if you want to see further updates, star the repo & create an "issue" [here](https://github.com/imvast/Discord-Account-Creator/issues/new/choose)
 
 ---
 
@@ -82,7 +82,7 @@ v0.0.1 ⋮ 04/09/2021
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/imvast/Discord-Account-Gen.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
-  <img src="https://img.shields.io/github/stars/imvast/Discord-Account-Gen.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
-  <img src="https://img.shields.io/github/languages/top/imvast/Discord-Account-Gen.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=python"/>
+  <img src="https://img.shields.io/github/license/imvast/Discord-Account-Creator.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
+  <img src="https://img.shields.io/github/stars/imvast/Discord-Account-Creator.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
+  <img src="https://img.shields.io/github/languages/top/imvast/Discord-Account-Creator.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=python"/>
 </p>
