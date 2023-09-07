@@ -24,9 +24,9 @@
 
 <h3>
 publish date: 6/20/2023
-// this version most likely doesn't work
 
-if patched, you can purchase working version @ https://shop.vast.sh
+this version is patched.
+you can purchase working version @ https://shop.vast.sh
 </h3>
 
 ---
