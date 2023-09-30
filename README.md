@@ -76,7 +76,7 @@ you can purchase working version @ https://shop.vast.sh
 ### 📜 ChangeLog
 
 ```diff
-v0.0.1 ⋮ 04/09/2021
+v0.0.1 ⋮ 04/09/2023
 ! Initial release
 ```
 
