@@ -211,7 +211,7 @@ class Discord:
                 'Sec-Fetch-Mode': 'cors',
                 'Sec-Fetch-Site': 'same-origin',
                 'Sec-GPC': '1',
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
+                'User-Agent': 'Mozilla/5.0 (Linux; Android 12.5; XBOX Build/NHG47K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Safari/537.36',
                 'X-Fingerprint': fingerprint,
                 'X-Track': xtrack,
             }
