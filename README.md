@@ -33,7 +33,7 @@ you can purchase working version @ https://shop.vast.sh
 
 ### ⚙️ Installation
 
-- Requires: `Python 3.8+`
+- Requires: `Python 3.10+`
 - Install the requirements: `pip install -r requirements.txt`
 - Add your proxies to `proxies.txt`
 - Edit the `config.toml` to your preference
@@ -76,7 +76,7 @@ you can purchase working version @ https://shop.vast.sh
 ### 📜 ChangeLog
 
 ```diff
-v0.0.1 ⋮ 04/09/2023
+v0.0.1 ⋮ 4/9/2023
 ! Initial release
 ```
 
